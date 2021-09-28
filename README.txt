@@ -1,0 +1,1 @@
+Download the latest version of piler and extract its contents to the folder 'piler_archive'
